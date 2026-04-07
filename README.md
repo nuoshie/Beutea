@@ -1,0 +1,2 @@
+# Beutea
+GitHub Pages
